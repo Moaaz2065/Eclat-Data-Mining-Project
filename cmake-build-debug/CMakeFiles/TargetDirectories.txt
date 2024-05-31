@@ -1,0 +1,3 @@
+C:/Users/hp/CLionProjects/Eclat/cmake-build-debug/CMakeFiles/Eclat.dir
+C:/Users/hp/CLionProjects/Eclat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/CLionProjects/Eclat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
